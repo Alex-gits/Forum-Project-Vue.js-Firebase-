@@ -1,24 +1,19 @@
-# forumproject
+# Training project from VueSchool.io
 
-## Project setup
-```
-npm install
-```
+## Built With:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Vue.js 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Firebase
 
-### Lints and fixes files
-```
-npm run lint
-```
+3. Vuelidate
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Main features:
+
+1. Fully-functioning forum
+
+2. Single-page application
+
+3. Backend features via Firebase
+
+4. Registration and authorization through Email and Password or Gmail
