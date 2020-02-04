@@ -26,7 +26,6 @@ export default {
       return this.$store.state.categories.items[this.id]
     }
   },
-
   methods: {
     ...mapActions('categories', ['fetchCategory']),
     ...mapActions('forums', ['fetchForums'])
